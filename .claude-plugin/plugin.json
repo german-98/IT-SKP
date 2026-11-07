@@ -1,0 +1,1 @@
+{ "name": "pulse-bar", "version": "0.21.1", "description": "Animated limit bar (5 h / weekly) under the prompt", "types": "./types/index.d.ts", "hooks": ["./hooks/hooks.json"] }

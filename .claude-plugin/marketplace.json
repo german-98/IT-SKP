@@ -1,0 +1,5 @@
+{
+  "name": "it-skp",
+  "owner": { "name": "german-98" },
+  "plugins": [{ "name": "pulse-bar", "source": "./" }]
+}
